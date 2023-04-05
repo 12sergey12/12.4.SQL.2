@@ -15,7 +15,7 @@
 - город нахождения магазина;
 - количество пользователей, закреплённых в этом магазине.
 
-![monitoring](https://github.com/12sergey12/12.4.SQL.2/blob/main/images/12.4-1.png)
+![monitoring](https://github.com/12sergey12/12.4.SQL.2/blob/main/images/12.4-1%D0%B8%D1%81%D0%BF.png)
 
 
 ---
@@ -36,4 +36,4 @@
 
 ### Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 
-![monitoring](https://github.com/12sergey12/12.4.SQL.2/blob/main/images/12.4-3.png)
+![monitoring](https://github.com/12sergey12/12.4.SQL.2/blob/main/images/12.4-3%D0%B8%D1%81%D0%BF.png)
